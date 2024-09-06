@@ -12,3 +12,19 @@ C:\Users\Anthony\Desktop\Algoritmos de ordenamiento\obj\Debug\net8.0\refint\Algo
 C:\Users\Anthony\Desktop\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.pdb
 C:\Users\Anthony\Desktop\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.genruntimeconfig.cache
 C:\Users\Anthony\Desktop\Algoritmos de ordenamiento\obj\Debug\net8.0\ref\Algoritmos de ordenamiento.dll
+C:\Users\Anthony\Desktop\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.sourcelink.json
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\bin\Debug\net8.0\Algoritmos de ordenamiento.exe
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\bin\Debug\net8.0\Algoritmos de ordenamiento.deps.json
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\bin\Debug\net8.0\Algoritmos de ordenamiento.runtimeconfig.json
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\bin\Debug\net8.0\Algoritmos de ordenamiento.dll
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\bin\Debug\net8.0\Algoritmos de ordenamiento.pdb
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.AssemblyInfo.cs
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.sourcelink.json
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.dll
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\refint\Algoritmos de ordenamiento.dll
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.pdb
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\Algoritmos de ordenamiento.genruntimeconfig.cache
+C:\Users\Anthony\OneDrive - Estudiantes ITCR\TEC\2024\Segundo semestre\Algoritmos y Estructuras de Datos 1\Notas de clase\Algoritmos de ordenamiento\obj\Debug\net8.0\ref\Algoritmos de ordenamiento.dll

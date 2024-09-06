@@ -1,4 +1,5 @@
 ﻿using SelectionSortA;
+using InsetionSortA;
 
 namespace Principal
 {
@@ -6,12 +7,18 @@ namespace Principal
     {
         public static void Main(string[] args)
         {
-            SelectionSortClass selectionSort = new SelectionSortClass();
 
-            int[] array = {56,5,87,6,23,2,9,3};
+            //SelectionSortClass selectionSort = new SelectionSortClass();
 
-            selectionSort.SelectionSort(array);
-            selectionSort.ImprimirLista(array);
+            int[] array = {56,5,87,6,2,100,4,0,9,3};
+//
+            //selectionSort.SelectionSort(array);
+            //selectionSort.ImprimirLista(array);
+
+            InsetionSort insetionSort = new InsetionSort();
+
+            insetionSort.InsertionSort(array);
+            insetionSort.ImprimirLista(array);
         }
     }
 }
