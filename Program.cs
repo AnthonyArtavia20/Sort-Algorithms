@@ -1,5 +1,6 @@
 ﻿using SelectionSortA;
 using InsetionSortA;
+using BubbleSortFolder;
 
 namespace Principal
 {
@@ -16,8 +17,9 @@ namespace Principal
             //selectionSort.ImprimirLista(array);
 
             InsetionSort insetionSort = new InsetionSort();
+            BubbleSortAlgorithm bubbleSorting = new BubbleSortAlgorithm();
 
-            insetionSort.InsertionSort(array);
+            bubbleSorting.BubbleSort(array);
             insetionSort.ImprimirLista(array);
         }
     }
