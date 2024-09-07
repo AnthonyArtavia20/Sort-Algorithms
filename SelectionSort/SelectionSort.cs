@@ -21,13 +21,13 @@ namespace SelectionSortA
 
                 if (array[indiceInicial] > valorMin) //Cuando termine de buscar el mínimo, comparamos el actual con ese 
                 { //mínimo, si el actual es mayor, entonces hacemos "Swap" y nos movemos al siguiente elemento a comparar.
-                    swapmethod(array, indiceInicial,valorMinIndex);
+                    SwapMethod(array, indiceInicial,valorMinIndex);
                 }
                 indiceInicial++; //Cuando se hizo el "Swap" nos movemos al siguiente elemento a comparar en la lista ya que el actual ya está ordenado.
             }
         }
 
-        private void swapmethod(int[]array, int index1,int index2) //Encargado de intercambiar los elementos por medio de una variable temporal.
+        private static void SwapMethod(int[]array, int index1,int index2) //Encargado de intercambiar los elementos por medio de una variable temporal.
         {
             int indice_temporal = array[index1]; //Copiamos el valor del indice 1 para poder guardarlo.
             array[index1] = array[index2]; //Igualamos el primero y lo intercambiamos por el segundo

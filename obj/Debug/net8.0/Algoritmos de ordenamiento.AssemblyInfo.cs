@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos de ordenamiento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d0aa9503b6daa912e9ca4aa695d39a6f7e33f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b1ee3d655b3d527f3761d6246f96ac1915da12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos de ordenamiento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos de ordenamiento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

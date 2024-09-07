@@ -42,7 +42,7 @@ namespace BubbleSortFolder
             }
         }
 
-        public void SwapMethod(int[]array, int IndiceIzquierdo, int IndiceDerecho) //Método encargado de intercambiar dos elementos cuando el izquiedo
+        private static void SwapMethod(int[]array, int IndiceIzquierdo, int IndiceDerecho) //Método encargado de intercambiar dos elementos cuando el izquiedo
         { //es menor al de la derecha.
             int IndiceTemporal = array[IndiceIzquierdo];
             array[IndiceIzquierdo] = array[IndiceDerecho];
